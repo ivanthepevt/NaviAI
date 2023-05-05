@@ -1,0 +1,18 @@
+.subtitle{
+    text-align: center;
+    font-family: "Helvetica Neue", "Helvetica", "Arial", "Lucida Grande";
+    font-size: 20px;
+}
+
+#caption{
+    
+}
+
+#surtitle{
+    font-weight: bold;
+}
+
+body {
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+}
